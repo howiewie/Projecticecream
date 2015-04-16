@@ -1,4 +1,4 @@
-package pos;
+package pos; //test
 
 public interface Icecream {
   public String makeIcecream();
